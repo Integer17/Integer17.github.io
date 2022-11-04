@@ -874,24 +874,3 @@ input:-webkit-autofill {
 .form-message.success {
     color: #000;
 }
-
-
-/*:::::::::::::::::::::::::::::::::::
-        Footer Area
-:::::::::::::::::::::::::::::::::::*/
-
-.footer-area {
-    padding: 30px;
-    background-color: #000;
-    border-bottom: 5px solid #ffc900;
-}
-
-.copyright-text a {
-    color: #eee;
-    -webkit-transition: .3s;
-    transition: .3s;
-}
-
-.copyright-text a:hover {
-    color: #ffc900;
-}
